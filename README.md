@@ -5,4 +5,5 @@ This is a Jupyter notebook for conveniently viewing and comparing the data colle
 
 Either download the contents of this repository and launch the Jupyter notebook file locally or visit this notebook online at https://mybinder.org/v2/gh/Lindt8/SHAEDIT/master.  Note that this site can be quite slow to load (like, you probably have time to make a cup of coffee/tea).  Once it has loaded, click the ``SHAEDIT.ipynb`` file/link, which will open the notebook in a new tab, follow the instructions at the top of the page, and enjoy looking at the data with SHAEDIT!
 
-###### SHAEDIT was written and developed by Hunter Ratliff at The University of Tennessee, Knoxville, Department of Nuclear Engineering (2018)
+###### SHAEDIT was written and developed by Hunter Ratliff at The University of Tennessee, Knoxville, Department of Nuclear Engineering 
+###### Copyright &#169; 2018 Hunter Ratliff (Lindt8) 
