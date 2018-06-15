@@ -1,5 +1,5 @@
 # SHAEDIT
-[![DOI](https://zenodo.org/badge/135943952.svg)](https://zenodo.org/badge/latestdoi/135943952)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1287860.svg)](https://doi.org/10.5281/zenodo.1287860)
 ### Space Hadron Accelerator Experiment Data Investigation Tool
 
 This is a Jupyter notebook for conveniently viewing and comparing the data collected from the measurements of double-differential secondary particle yields from intermediate-energy hadrons incident on thick-targets. These experimental measurements were made at the NASA Space Radiation Laboratory on the Brookhaven National Laboratory campus.
