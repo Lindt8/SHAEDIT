@@ -1,3 +1,5 @@
+[View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/SHAEDIT/master)
+
 # SHAEDIT
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1287860.svg)](https://doi.org/10.5281/zenodo.1287860)
 ### Space Hadron Accelerator Experiment Data Investigation Tool
