@@ -1,4 +1,4 @@
-numpy==1.16.2
+numpy==1.16.*
 matplotlib==2.1.2 
 Pandas==0.24.*
 IPython==6.2.1 
