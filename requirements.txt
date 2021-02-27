@@ -1,6 +1,6 @@
-numpy==1.16.*
-matplotlib==2.1.* 
+numpy==1.*
+matplotlib==2.* 
 Pandas==0.24.*
-IPython==6.2.* 
+IPython
 ipywidgets==7.1.1
 jupyter_contrib_nbextensions
